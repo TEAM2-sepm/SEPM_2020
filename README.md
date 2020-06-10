@@ -7,3 +7,5 @@ hope ya'll can read
 Project using PHP to calculate charges with respect to bulb
 
 You have to enter your name and any of the 4 options in this program
+
+hello everyone
