@@ -5,5 +5,3 @@ classwork
 hope ya'll can read 
 
 Project using PHP to calculate charges with respect to bulb
-
-this comment is done by Sharon
